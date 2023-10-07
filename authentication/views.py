@@ -14,7 +14,7 @@ def login_page(request):
             )
             if user is not None:
                 login(request, user)
-                message = f'Hello { user.username }, you are logged in'
+                return redirect('home')
             else:
                 message = f'Authentication failed'
     return render(request,'authentication/login.html', context={ 'form' : form, 'message' : message})
