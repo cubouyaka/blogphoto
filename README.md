@@ -1,4 +1,5 @@
-A web project in Django - Blog Photo
+# BLOG PHOTO #
+## A web project in Python, using Django ##
 
 I. Authentication:
   1. Creation of a User model that implements AbstarctUser
