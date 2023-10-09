@@ -8,5 +8,6 @@ I. Authentication:
   5. Utilisation of generic view LoginView
   6. Signup page with a UserCreationForm
   7. Validators for password
-II. 
+II. MMM
+  1. Creation of a service to upload images with a form
  
