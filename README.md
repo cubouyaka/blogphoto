@@ -15,5 +15,6 @@ II.
   3. Displaying feed on home page.
   4. Creating a Blog article with a Photo uploaded (BlogForm + PhotoForm)
   5. Viewing a Blog article
-  6. Editing a Blog article
+  6. Editing/Deleting a Blog article
+  7. Uploading multiple image with a FormSet
  
