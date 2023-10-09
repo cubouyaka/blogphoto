@@ -9,7 +9,10 @@ I. Authentication:
   5. Utilisation of generic view LoginView
   6. Signup page with a UserCreationForm
   7. Validators for password
-II. MMM
-  1. Creation of a service to upload images with a form
-  2. Possibility to change profile picture with a form
+II. 
+  1. Uploading images with a form
+  2. Changing profile picture with a form
+  3. Displaying feed on home page.
+  4. Creating a Blog article with a Photo uploaded (BlogForm + PhotoForm)
+  5. View for Blog article 
  

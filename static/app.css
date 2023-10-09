@@ -53,6 +53,7 @@ html {
 }
 
 .post img {
+    border: 100px solid;
     width: 80%;
     border-radius: 5px;
 }
