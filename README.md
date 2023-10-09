@@ -11,4 +11,5 @@ I. Authentication:
   7. Validators for password
 II. MMM
   1. Creation of a service to upload images with a form
+  2. Possibility to change profile picture with a form
  
