@@ -14,5 +14,6 @@ II.
   2. Changing profile picture with a form
   3. Displaying feed on home page.
   4. Creating a Blog article with a Photo uploaded (BlogForm + PhotoForm)
-  5. View for Blog article 
+  5. Viewing a Blog article
+  6. Editing a Blog article
  
