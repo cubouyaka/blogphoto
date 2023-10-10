@@ -6,5 +6,6 @@
     </div>
     <p>{{ blog.photo.caption }}</p>
     <p>{{ blog.content }}</p>
+    <p>{{ blog.word_count }} words</p>
     <p> <a href="{% url 'edit_blog' blog.id %}"> Edit the article </a></p>
 {% endblock content %}

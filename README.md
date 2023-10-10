@@ -10,7 +10,7 @@ I. Authentication:
   6. Signup page with a UserCreationForm
   7. Validators for password
   
-II. Second Part
+II. Blog Photo
   1. Uploading images with a form
   2. Changing profile picture with a form
   3. Displaying feed on home page.
