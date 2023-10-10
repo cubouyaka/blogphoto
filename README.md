@@ -17,4 +17,5 @@ II.
   5. Viewing a Blog article
   6. Editing/Deleting a Blog article
   7. Uploading multiple image with a FormSet
+  8. Resizing an image when saved, by overwritting save() method of Photo's model
  
