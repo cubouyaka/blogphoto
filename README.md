@@ -9,6 +9,7 @@ I. Authentication:
   5. Utilisation of generic view LoginView
   6. Signup page with a UserCreationForm
   7. Validators for password
+  
 II. Second Part
   1. Uploading images with a form
   2. Changing profile picture with a form
