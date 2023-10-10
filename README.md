@@ -19,4 +19,5 @@ II. Blog Photo
   6. Editing/Deleting a Blog article
   7. Uploading multiple image with a FormSet
   8. Resizing an image when saved, by overwritting save() method of Photo's model
+  9. Using permissions on Groups to restrict access for some pages.
  
