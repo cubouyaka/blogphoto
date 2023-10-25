@@ -11,6 +11,8 @@ class User(AbstractUser):
     profile_picture = models.ImageField(verbose_name='Profil picture')
     role = models.CharField(max_length=20, choices=ROLE_CHOICES, verbose_name="Role")
 
+    follows = models.ManyToManyField('self', limit_choices_to={'role': CREATOR}, symmetrical=False)
+
     def save(self, *args, **kwargs):
         super().save(*args, **kwargs)
         if self.role == self.CREATOR:

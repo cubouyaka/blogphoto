@@ -20,4 +20,5 @@ II. Blog Photo
   7. Uploading multiple image with a FormSet
   8. Resizing an image when saved, by overwritting save() method of Photo's model
   9. Using permissions on Groups to restrict access for some pages.
+  10. Many to Many relation between users (to follow a user/creator)
  
